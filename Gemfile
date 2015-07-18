@@ -4,8 +4,8 @@ source 'http://rubygems.org'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'rails', '3.2.12'
-gem 'mysql2'
-gem 'sqlite3'
+gem 'pg'
+#gem 'sqlite3'
 gem 'aws-sdk'
 gem 'airbrake'
 
